@@ -1,6 +1,6 @@
 # Ransomware Mitigation
 
-DESC
+Ransomware mitigation guidelines for Knowbl Cluster. Reference only.
 
 ## Backups
 
