@@ -13,6 +13,7 @@ Ransomware mitigation guidelines for Knowbl Cluster. Reference only.
 
 - Patches
 - OS upgrades
+- Software updates
 
 ## Scheduling
 
