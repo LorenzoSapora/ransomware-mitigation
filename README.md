@@ -18,3 +18,5 @@ Ransomware mitigation guidelines for Knowbl Cluster. Reference only.
 ## Scheduling
 
 `./r-mit.sh`
+
+## Canonical Source
