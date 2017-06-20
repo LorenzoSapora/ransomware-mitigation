@@ -21,4 +21,4 @@ Ransomware mitigation guidelines for Knowbl Cluster. Reference only.
 
 ## Canonical Source
 
-https://git.knowbl.co/dev/ransomware-mitigation
+[https://git.knowbl.co/dev/ransomware-mitigation](https://git.knowbl.co/dev/ransomware-mitigation)
