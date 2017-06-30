@@ -2,6 +2,10 @@
 
 Ransomware mitigation guidelines for Knowbl Cluster. Reference only.
 
+## Monitoring
+
+DESC
+
 ## Backups
 
 - On-site
