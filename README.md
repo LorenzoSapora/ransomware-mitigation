@@ -30,3 +30,4 @@ DESC
 ## Canonical Source
 
 The canonical source of Ransomware Mitigation is hosted on [https://git.knowbl.co/dev/ransomware-mitigation](https://git.knowbl.co/dev/ransomware-mitigation)
+
